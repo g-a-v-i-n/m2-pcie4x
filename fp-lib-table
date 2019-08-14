@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 1-2199119-3)(type Legacy)(uri "/Users/gavinatkinson/Downloads/1-2199119-3 (1)/1-2199119-3.mod")(options "")(descr ""))
+  (lib (name PCIE-064-02-F-D-TH)(type Legacy)(uri /Users/gavinatkinson/Downloads/PCIE-064-02-F-D-TH/PCIE-064-02-F-D-TH.mod)(options "")(descr ""))
+  (lib (name SFW30R-2STE1LF)(type Legacy)(uri /Users/gavinatkinson/Downloads/SFW30R-2STE1LF/SFW30R-2STE1LF.mod)(options "")(descr ""))
+)

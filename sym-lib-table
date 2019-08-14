@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Mini-ATX-PCIe-Extender-rescue)(type Legacy)(uri "${KIPRJMOD}/Mini ATX PCIe Extender-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name 5622-4100-ML)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/5622-4100-ML/5622-4100-ML.lib")(options "")(descr ""))
+  (lib (name PCIE-064-02-F-D-TH)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/PCIE-064-02-F-D-TH/PCIE-064-02-F-D-TH.lib")(options "")(descr ""))
+  (lib (name SFW30R-2STE1LF)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/SFW30R-2STE1LF/SFW30R-2STE1LF.lib")(options "")(descr ""))
+)
