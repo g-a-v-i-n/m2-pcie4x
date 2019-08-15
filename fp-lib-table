@@ -1,5 +1,8 @@
 (fp_lib_table
-  (lib (name 1-2199119-3)(type Legacy)(uri "/Users/gavinatkinson/Downloads/1-2199119-3 (1)/1-2199119-3.mod")(options "")(descr ""))
-  (lib (name PCIE-064-02-F-D-TH)(type Legacy)(uri /Users/gavinatkinson/Downloads/PCIE-064-02-F-D-TH/PCIE-064-02-F-D-TH.mod)(options "")(descr ""))
-  (lib (name SFW30R-2STE1LF)(type Legacy)(uri /Users/gavinatkinson/Downloads/SFW30R-2STE1LF/SFW30R-2STE1LF.mod)(options "")(descr ""))
+  (lib (name PCIE-064-02-F-D-TH)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/PCIE-064-02-F-D-TH/PCIE-064-02-F-D-TH.mod")(options "")(descr ""))
+  (lib (name SFW30R-2STE1LF)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/SFW30R-2STE1LF/SFW30R-2STE1LF.mod")(options "")(descr ""))
+  (lib (name 5622-4100-ML)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/5622-4100-ML/5622-4100-ML.mod")(options "")(descr ""))
+  (lib (name 598-8010-107F)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/598-8010-107F/598-8010-107F.mod")(options "")(descr ""))
+  (lib (name CGA4F4X7T2W103M085AE)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/CGA4F4X7T2W103M085AE/CGA4F4X7T2W103M085AE.mod")(options "")(descr ""))
+  (lib (name CRCW060312R0FKEA)(type Legacy)(uri "/Users/gavinatkinson/Dropbox/pcb/External Libs/CRCW060312R0FKEA/CRCW060312R0FKEA.mod")(options "")(descr ""))
 )
