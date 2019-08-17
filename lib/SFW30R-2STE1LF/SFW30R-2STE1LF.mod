@@ -1,0 +1,285 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+FCI_SFW30R-2STE1LF
+$EndINDEX
+$MODULE FCI_SFW30R-2STE1LF
+Po 0 0 0 15 00000000 00000000 ~~
+Li FCI_SFW30R-2STE1LF
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.6869 -9.9474 1.64265 1.64265 0 0.05 N V 21 "FCI_SFW30R-2STE1LF"
+T1 -0.45737 -0.457362 1.64058 1.64058 0 0.05 N V 21 "VAL**"
+DS 16.1798 -2.7432 17.8816 -2.7432 0.1524 21
+DS -17.8816 -2.7432 -16.1798 -2.7432 0.1524 21
+DS 17.8816 -2.7432 17.8816 -8.2804 0.1524 21
+DS 17.8816 -8.2804 -17.8816 -8.2804 0.1524 21
+DS -17.8816 -8.2804 -17.8816 -2.7432 0.1524 21
+DS 15.1384 -2.7432 14.5034 -1.4732 0.1524 27
+DS 13.8684 -2.7432 14.5034 -1.4732 0.1524 27
+DS -17.8816 -2.7432 17.8816 -2.7432 0.1524 27
+DS 17.8816 -2.7432 17.8816 -8.2804 0.1524 27
+DS 17.8816 -8.2804 -17.8816 -8.2804 0.1524 27
+DS -17.8816 -8.2804 -17.8816 -2.7432 0.1524 27
+$PAD
+Sh "1" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 14.5034 -2.7432
+$EndPAD
+$PAD
+Sh "2" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 13.4874 -2.7432
+$EndPAD
+$PAD
+Sh "3" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.4968 -2.7432
+$EndPAD
+$PAD
+Sh "4" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.5062 -2.7432
+$EndPAD
+$PAD
+Sh "5" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.4902 -2.7432
+$EndPAD
+$PAD
+Sh "6" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.4996 -2.7432
+$EndPAD
+$PAD
+Sh "7" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.509 -2.7432
+$EndPAD
+$PAD
+Sh "8" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.493 -2.7432
+$EndPAD
+$PAD
+Sh "9" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.5024 -2.7432
+$EndPAD
+$PAD
+Sh "10" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.5118 -2.7432
+$EndPAD
+$PAD
+Sh "11" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.4958 -2.7432
+$EndPAD
+$PAD
+Sh "12" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.5052 -2.7432
+$EndPAD
+$PAD
+Sh "13" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.4892 -2.7432
+$EndPAD
+$PAD
+Sh "14" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.4986 -2.7432
+$EndPAD
+$PAD
+Sh "15" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.508 -2.7432
+$EndPAD
+$PAD
+Sh "16" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.508 -2.7432
+$EndPAD
+$PAD
+Sh "17" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.4986 -2.7432
+$EndPAD
+$PAD
+Sh "18" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.4892 -2.7432
+$EndPAD
+$PAD
+Sh "19" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.5052 -2.7432
+$EndPAD
+$PAD
+Sh "20" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.4958 -2.7432
+$EndPAD
+$PAD
+Sh "21" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.5118 -2.7432
+$EndPAD
+$PAD
+Sh "22" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.5024 -2.7432
+$EndPAD
+$PAD
+Sh "23" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.493 -2.7432
+$EndPAD
+$PAD
+Sh "24" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.509 -2.7432
+$EndPAD
+$PAD
+Sh "25" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.4996 -2.7432
+$EndPAD
+$PAD
+Sh "26" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.4902 -2.7432
+$EndPAD
+$PAD
+Sh "27" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.5062 -2.7432
+$EndPAD
+$PAD
+Sh "28" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.4968 -2.7432
+$EndPAD
+$PAD
+Sh "29" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -13.4874 -2.7432
+$EndPAD
+$PAD
+Sh "30" R 2.0066 0.6096 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -14.5034 -2.7432
+$EndPAD
+$PAD
+Sh "31" R 0.7112 4.191 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -15.494 -4.8768
+$EndPAD
+$PAD
+Sh "32" R 0.7112 4.191 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 15.494 -4.8768
+$EndPAD
+$EndMODULE FCI_SFW30R-2STE1LF

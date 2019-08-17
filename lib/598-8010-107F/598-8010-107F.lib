@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 598-8010-107F
+#
+DEF 598-8010-107F D 0 40 Y Y 1 L N
+F0 "D" -80 160 50 H V L BNN
+F1 "598-8010-107F" -80 -150 50 H V L BNN
+F2 "LEDSC160X80X70L45N" 0 0 50 H I L BNN
+F3 "https://www.digikey.com/product-detail/en/dialight/5988010107F/350-2029-1-ND/1291333?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F4 "598-8010-107F" 0 0 50 H I L BNN
+F5 "0603 Dialight" 0 0 50 H I L BNN
+F6 "598 Series 0603 - 1.6 x 0.8 mm Red 140° 40 mcd Surface Mount Micro LED" 0 0 50 H I L BNN
+F7 "Dialight" 0 0 50 H I L BNN
+F8 "350-2029-1-ND" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 100 -50 0 0 N
+P 2 0 0 10 0 0 100 50 N
+P 2 0 0 10 0 -50 0 0 N
+P 2 0 0 10 0 0 0 50 N
+P 2 0 0 10 100 -50 100 0 N
+P 2 0 0 10 100 0 100 50 N
+P 2 0 0 6 70 80 15 135 N
+P 2 0 0 6 25 75 -30 130 N
+P 3 0 0 6 15 135 50 120 30 100 F
+P 3 0 0 6 -30 130 5 115 -15 95 F
+P 2 0 0 10 -200 0 0 0 N
+P 2 0 0 10 100 0 300 0 N
+X C C -300 0 100 R 40 40 0 0 P 
+X A A 400 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

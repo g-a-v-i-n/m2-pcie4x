@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Mini ATX PCIe Extender-cache
+LIBS:m2-pcie4x-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -149,9 +149,9 @@ $EndComp
 Wire Wire Line
 	1700 2250 1150 2250
 Text GLabel 2700 2250 2    50   Input ~ 0
-PETp0+
+PET0+
 Text GLabel 1700 2350 0    50   Input ~ 0
-PETn0-
+PET0-
 $Comp
 L power:GND #PWR0110
 U 1 1 5D3A7D91
@@ -170,7 +170,7 @@ Wire Wire Line
 Text GLabel 5400 2200 2    50   Input ~ 0
 REFCLK-
 Text GLabel 5400 2300 2    50   Input ~ 0
-PERp0+
+PER0+
 $Comp
 L power:GND #PWR0111
 U 1 1 5D3AC88B
@@ -191,9 +191,9 @@ Wire Wire Line
 Wire Wire Line
 	5400 2500 5400 2400
 Text GLabel 1700 2550 0    50   Input ~ 0
-PETp1+
+PET1+
 Text GLabel 2700 2550 2    50   Input ~ 0
-PETn1-
+PET1-
 $Comp
 L power:GND #PWR0112
 U 1 1 5D3B05A7
@@ -221,11 +221,11 @@ $EndComp
 Wire Wire Line
 	2700 2650 3250 2650
 Text GLabel 5400 2600 2    50   Input ~ 0
-PERn1-
+PER1-
 Text GLabel 1700 2750 0    50   Input ~ 0
-PETp2+
+PET2+
 Text GLabel 2700 2750 2    50   Input ~ 0
-PETn2-
+PET2-
 $Comp
 L power:GND #PWR0114
 U 1 1 5D3B36BA
@@ -253,9 +253,9 @@ Wire Wire Line
 Wire Wire Line
 	2700 2850 3250 2850
 Text GLabel 1700 2950 0    50   Input ~ 0
-PETp3+
+PET3+
 Text GLabel 2700 2950 2    50   Input ~ 0
-PETn3-
+PET3-
 $Comp
 L power:GND #PWR0116
 U 1 1 5D3B5AF7
@@ -286,7 +286,7 @@ $EndComp
 Wire Wire Line
 	3250 3150 2700 3150
 $Comp
-L Mini-ATX-PCIe-Extender-rescue:PCIE-064-02-F-D-TH-PCIE-064-02-F-D-TH J1
+L m2-pcie4x-rescue:PCIE-064-02-F-D-TH-PCIE-064-02-F-D-TH-Mini-ATX-PCIe-Extender-rescue J1
 U 1 1 5D3C63FA
 P 4900 2300
 F 0 "J1" H 4900 3367 50  0000 C CNN
@@ -302,7 +302,7 @@ F 8 "Samtec" H 4900 2300 50  0001 L BNN "Field8"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mini-ATX-PCIe-Extender-rescue:PCIE-064-02-F-D-TH-PCIE-064-02-F-D-TH J1
+L m2-pcie4x-rescue:PCIE-064-02-F-D-TH-PCIE-064-02-F-D-TH-Mini-ATX-PCIe-Extender-rescue J1
 U 2 1 5D3C7E7A
 P 2200 2350
 F 0 "J1" H 2200 3417 50  0000 C CNN
@@ -375,10 +375,10 @@ $EndComp
 Wire Wire Line
 	3850 2300 4400 2300
 Text GLabel 4400 2400 0    50   Input ~ 0
-PERn0-
+PER0-
 NoConn ~ 4400 2500
 Text GLabel 4400 2600 0    50   Input ~ 0
-PERp1+
+PER1+
 $Comp
 L power:GND #PWR0121
 U 1 1 5D40C837
@@ -393,7 +393,7 @@ $EndComp
 Wire Wire Line
 	3850 2700 4400 2700
 Text GLabel 4400 2800 0    50   Input ~ 0
-PERp2+
+PER2+
 $Comp
 L power:GND #PWR0122
 U 1 1 5D40D741
@@ -408,7 +408,7 @@ $EndComp
 Wire Wire Line
 	3850 2900 4400 2900
 Text GLabel 4400 3000 0    50   Input ~ 0
-PERp3+
+PER3+
 $Comp
 L power:GND #PWR0123
 U 1 1 5D40E44E
@@ -436,7 +436,7 @@ $EndComp
 Wire Wire Line
 	5750 2700 5400 2700
 Text GLabel 5400 2800 2    50   Input ~ 0
-PERn2-
+PER2-
 $Comp
 L power:GND #PWR0125
 U 1 1 5D40FF22
@@ -451,28 +451,28 @@ $EndComp
 Wire Wire Line
 	5750 2900 5400 2900
 Text GLabel 5400 3000 2    50   Input ~ 0
-PERn3-
+PER3-
 NoConn ~ 5400 3100
 Text GLabel 8150 2700 2    50   Input ~ 0
-PERn1-
+PER1-
 Text GLabel 8150 2800 2    50   Input ~ 0
-PERp2+
+PER2+
 Text GLabel 8150 3000 2    50   Input ~ 0
-PERn3-
+PER3-
 Text GLabel 1700 1750 0    50   Input ~ 0
 SMCLK
 Text GLabel 2700 1750 2    50   Input ~ 0
 SMDAT
-Text GLabel 6750 2100 0    50   Input ~ 0
-PETn0-
 Text GLabel 8150 2000 2    50   Input ~ 0
-PETp0+
+PET0-
+Text GLabel 6750 2100 0    50   Input ~ 0
+PET0+
 Text GLabel 6750 1900 0    50   Input ~ 0
-PETn1-
+PET1-
 Text GLabel 8150 1700 2    50   Input ~ 0
-PETn2-
+PET2-
 Text GLabel 6750 1600 0    50   Input ~ 0
-PETn3-
+PET3-
 Text GLabel 8150 2400 2    50   Input ~ 0
 REFCLK-
 Text GLabel 6750 2300 0    50   Input ~ 0
@@ -925,13 +925,13 @@ F 3 "" H 5200 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 6750 2600 0    50   Input ~ 0
-PERn0-
+PER0-
 Text GLabel 6750 2700 0    50   Input ~ 0
-PERp1+
+PER1+
 Text GLabel 8150 2500 2    50   Input ~ 0
-PERp0+
+PER0+
 $Comp
-L Mini-ATX-PCIe-Extender-rescue:SFW30R-2STE1LF-SFW30R-2STE1LF U1
+L m2-pcie4x-rescue:SFW30R-2STE1LF-SFW30R-2STE1LF-Mini-ATX-PCIe-Extender-rescue U1
 U 1 1 5D413135
 P 7450 2200
 F 0 "U1" H 7450 3170 50  0000 C CNN
@@ -947,13 +947,13 @@ F 8 "609-1927-1-ND" H 7450 2200 50  0001 L BNN "Field8"
 	1    0    0    -1  
 $EndComp
 Text GLabel 6750 2900 0    50   Input ~ 0
-PERn2-
+PER2-
 Text GLabel 6750 3000 0    50   Input ~ 0
-PERp3+
+PER3+
 Text GLabel 6750 1800 0    50   Input ~ 0
-PETp2+
+PET2+
 Text GLabel 8150 1600 2    50   Input ~ 0
-PETp3+
+PET3+
 Text GLabel 6750 2400 0    50   Input ~ 0
 REFCLK+
 $Comp
@@ -970,12 +970,12 @@ $EndComp
 Wire Wire Line
 	9800 2150 9300 2150
 Text GLabel 8150 1900 2    50   Input ~ 0
-PETp1+
+PET1+
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0126
 U 1 1 5D603277
 P 8150 1800
-F 0 "#PWR?" H 8150 1550 50  0001 C CNN
+F 0 "#PWR0126" H 8150 1550 50  0001 C CNN
 F 1 "GND" H 8155 1627 50  0000 C CNN
 F 2 "" H 8150 1800 50  0001 C CNN
 F 3 "" H 8150 1800 50  0001 C CNN
@@ -983,10 +983,10 @@ F 3 "" H 8150 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0127
 U 1 1 5D603CB9
 P 6700 1700
-F 0 "#PWR?" H 6700 1450 50  0001 C CNN
+F 0 "#PWR0127" H 6700 1450 50  0001 C CNN
 F 1 "GND" H 6705 1527 50  0000 C CNN
 F 2 "" H 6700 1700 50  0001 C CNN
 F 3 "" H 6700 1700 50  0001 C CNN
@@ -994,10 +994,10 @@ F 3 "" H 6700 1700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0128
 U 1 1 5D604674
 P 6750 2000
-F 0 "#PWR?" H 6750 1750 50  0001 C CNN
+F 0 "#PWR0128" H 6750 1750 50  0001 C CNN
 F 1 "GND" H 6755 1827 50  0000 C CNN
 F 2 "" H 6750 2000 50  0001 C CNN
 F 3 "" H 6750 2000 50  0001 C CNN
@@ -1005,10 +1005,10 @@ F 3 "" H 6750 2000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0129
 U 1 1 5D604B8C
 P 8150 2900
-F 0 "#PWR?" H 8150 2650 50  0001 C CNN
+F 0 "#PWR0129" H 8150 2650 50  0001 C CNN
 F 1 "GND" H 8155 2727 50  0000 C CNN
 F 2 "" H 8150 2900 50  0001 C CNN
 F 3 "" H 8150 2900 50  0001 C CNN
@@ -1016,10 +1016,10 @@ F 3 "" H 8150 2900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0131
 U 1 1 5D605FBB
 P 6750 2800
-F 0 "#PWR?" H 6750 2550 50  0001 C CNN
+F 0 "#PWR0131" H 6750 2550 50  0001 C CNN
 F 1 "GND" H 6755 2627 50  0000 C CNN
 F 2 "" H 6750 2800 50  0001 C CNN
 F 3 "" H 6750 2800 50  0001 C CNN
@@ -1027,10 +1027,10 @@ F 3 "" H 6750 2800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0132
 U 1 1 5D607534
 P 6750 2500
-F 0 "#PWR?" H 6750 2250 50  0001 C CNN
+F 0 "#PWR0132" H 6750 2250 50  0001 C CNN
 F 1 "GND" H 6755 2327 50  0000 C CNN
 F 2 "" H 6750 2500 50  0001 C CNN
 F 3 "" H 6750 2500 50  0001 C CNN
@@ -1038,10 +1038,10 @@ F 3 "" H 6750 2500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0133
 U 1 1 5D60AD3B
 P 8150 2300
-F 0 "#PWR?" H 8150 2050 50  0001 C CNN
+F 0 "#PWR0133" H 8150 2050 50  0001 C CNN
 F 1 "GND" H 8155 2127 50  0000 C CNN
 F 2 "" H 8150 2300 50  0001 C CNN
 F 3 "" H 8150 2300 50  0001 C CNN

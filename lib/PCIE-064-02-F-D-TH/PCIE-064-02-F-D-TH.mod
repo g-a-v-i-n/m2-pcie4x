@@ -1,0 +1,563 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SAMTEC_PCIE-064-02-F-D-TH
+$EndINDEX
+$MODULE SAMTEC_PCIE-064-02-F-D-TH
+Po 0 0 0 15 00000000 00000000 ~~
+Li SAMTEC_PCIE-064-02-F-D-TH
+Cd PCI EXPRESS CARD CONNECTOR ,64 PINS.
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 3.5384 -6.24265 1.00123 1.00123 0 0.05 N V 21 "SAMTEC_PCIE-064-02-F-D-TH"
+T1 4.47476 5.06817 1.00062 1.00062 0 0.05 N V 21 "VAL**"
+DS -19.5 -5.05 19.5 -5.05 0.127 27
+DS 19.5 -5.05 19.5 -3.65 0.127 27
+DS 19.5 -3.65 19.5 3.65 0.127 27
+DS 19.5 3.65 -19.5 3.65 0.127 27
+DS -19.5 3.65 -19.5 -3.65 0.127 27
+DS -19.5 -3.65 -19.5 -5.05 0.127 27
+DS 19.5 -5.05 19.5 3.65 0.127 21
+DS -19.5 -5.05 19.5 -5.05 0.127 21
+T2 14.909700 5.905670 1 1 0 .05 N V 21 "A2"
+T2 -17.924300 5.806180 1 1 0 .05 N V 21 "A32"
+T2 14.618900 -5.610870 1 1 0 .05 N V 21 "B2"
+T2 -17.914100 -5.703540 1 1 0 .05 N V 21 "B32"
+DS -19.5 -3.65 19.5 -3.65 0.127 27
+DS -19.5 -5.05 -19.5 -0.95 0.127 21
+DS -17.55 3.65 -19.5 3.65 0.127 21
+DS -19.5 3.65 -19.5 1 0.127 21
+DS 19.5 3.65 16.7 3.65 0.127 21
+DS -19.75 -5.3 19.75 -5.3 0.05 26
+DS 19.75 -5.3 19.75 4.1 0.05 26
+DS 19.75 4.1 -19.75 4.1 0.05 26
+DS -19.75 4.1 -19.75 -5.3 0.05 26
+$PAD
+Sh "A1" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 16.5 1.24
+$EndPAD
+$PAD
+Sh "A2" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 15.5 3.24
+$EndPAD
+$PAD
+Sh "B1" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 16.5 -1.26
+$EndPAD
+$PAD
+Sh "B2" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 15.5 -3.26
+$EndPAD
+$PAD
+Sh "A3" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.5 1.24
+$EndPAD
+$PAD
+Sh "A4" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 13.5 3.24
+$EndPAD
+$PAD
+Sh "B3" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.5 -1.26
+$EndPAD
+$PAD
+Sh "B4" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 13.5 -3.26
+$EndPAD
+$PAD
+Sh "A5" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.5 1.24
+$EndPAD
+$PAD
+Sh "A6" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 11.5 3.24
+$EndPAD
+$PAD
+Sh "B5" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.5 -1.26
+$EndPAD
+$PAD
+Sh "B6" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 11.5 -3.26
+$EndPAD
+$PAD
+Sh "A7" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 1.24
+$EndPAD
+$PAD
+Sh "A8" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 9.5 3.24
+$EndPAD
+$PAD
+Sh "B7" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 -1.26
+$EndPAD
+$PAD
+Sh "B8" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 9.5 -3.26
+$EndPAD
+$PAD
+Sh "A9" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 8.5 1.24
+$EndPAD
+$PAD
+Sh "A10" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 7.5 3.24
+$EndPAD
+$PAD
+Sh "B9" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 8.5 -1.26
+$EndPAD
+$PAD
+Sh "B10" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 7.5 -3.26
+$EndPAD
+$PAD
+Sh "A11" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 6.5 1.24
+$EndPAD
+$PAD
+Sh "B11" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 6.5 -1.26
+$EndPAD
+$PAD
+Sh "A12" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.5 3.24
+$EndPAD
+$PAD
+Sh "B12" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.5 -3.26
+$EndPAD
+$PAD
+Sh "A13" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 2.5 1.24
+$EndPAD
+$PAD
+Sh "A14" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1.5 3.24
+$EndPAD
+$PAD
+Sh "B13" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 2.5 -1.26
+$EndPAD
+$PAD
+Sh "B14" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1.5 -3.26
+$EndPAD
+$PAD
+Sh "A15" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 0.5 1.24
+$EndPAD
+$PAD
+Sh "A16" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -0.5 3.24
+$EndPAD
+$PAD
+Sh "B15" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 0.5 -1.26
+$EndPAD
+$PAD
+Sh "B16" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -0.5 -3.26
+$EndPAD
+$PAD
+Sh "A17" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1.5 1.24
+$EndPAD
+$PAD
+Sh "A18" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -2.5 3.24
+$EndPAD
+$PAD
+Sh "B17" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1.5 -1.26
+$EndPAD
+$PAD
+Sh "B18" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -2.5 -3.26
+$EndPAD
+$PAD
+Sh "A19" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.5 1.24
+$EndPAD
+$PAD
+Sh "A20" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -4.5 3.24
+$EndPAD
+$PAD
+Sh "B19" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.5 -1.26
+$EndPAD
+$PAD
+Sh "B20" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -4.5 -3.26
+$EndPAD
+$PAD
+Sh "A21" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -5.5 1.24
+$EndPAD
+$PAD
+Sh "B21" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -5.5 -1.26
+$EndPAD
+$PAD
+Sh "A22" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -6.5 3.24
+$EndPAD
+$PAD
+Sh "B22" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -6.5 -3.26
+$EndPAD
+$PAD
+Sh "A23" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -7.5 1.24
+$EndPAD
+$PAD
+Sh "A24" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -8.5 3.24
+$EndPAD
+$PAD
+Sh "B23" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -7.5 -1.26
+$EndPAD
+$PAD
+Sh "B24" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -8.5 -3.26
+$EndPAD
+$PAD
+Sh "A25" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -9.5 1.24
+$EndPAD
+$PAD
+Sh "A26" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 3.24
+$EndPAD
+$PAD
+Sh "B25" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -9.5 -1.26
+$EndPAD
+$PAD
+Sh "B26" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 -3.26
+$EndPAD
+$PAD
+Sh "A27" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -11.5 1.24
+$EndPAD
+$PAD
+Sh "A28" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.5 3.24
+$EndPAD
+$PAD
+Sh "B27" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -11.5 -1.26
+$EndPAD
+$PAD
+Sh "B28" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.5 -3.26
+$EndPAD
+$PAD
+Sh "A29" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -13.5 1.24
+$EndPAD
+$PAD
+Sh "A30" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -14.5 3.24
+$EndPAD
+$PAD
+Sh "B29" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -13.5 -1.26
+$EndPAD
+$PAD
+Sh "B30" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -14.5 -3.26
+$EndPAD
+$PAD
+Sh "A31" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -15.5 1.24
+$EndPAD
+$PAD
+Sh "B31" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -15.5 -1.26
+$EndPAD
+$PAD
+Sh "A32" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -16.5 3.24
+$EndPAD
+$PAD
+Sh "B32" C 1.208 1.208 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -16.5 -3.26
+$EndPAD
+$PAD
+Sh "Hole" C 2.35 2.35 0 0 0
+Dr 2.35 0 0
+At HOLE N 00E0FFFF
+Po 4.85 0
+$EndPAD
+$PAD
+Sh "Hole" C 2.35 2.35 0 0 0
+Dr 2.35 0 0
+At HOLE N 00E0FFFF
+Po -18.3 0
+$EndPAD
+$EndMODULE SAMTEC_PCIE-064-02-F-D-TH

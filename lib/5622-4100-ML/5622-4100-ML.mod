@@ -1,0 +1,218 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+3M_5622-4100-ML
+$EndINDEX
+$MODULE 3M_5622-4100-ML
+Po 0 0 0 15 00000000 00000000 ~~
+Li 3M_5622-4100-ML
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -17.4798 -9.69599 1.00113 1.00113 0 0.05 N V 21 "3M_5622-4100-ML"
+T1 14.0526 -9.80429 1.00197 1.00197 0 0.05 N V 21 "VAL**"
+DS -21.373 2.3 -17.78 2.3 0.2 21
+DS -17.78 2.3 -17.78 -1.27 0.2 21
+DS -17.78 -1.27 17.78 -1.27 0.2 21
+DS 17.78 -1.27 17.78 2.3 0.2 21
+DS 17.78 2.3 21.373 2.3 0.2 21
+DS 21.373 2.3 21.373 -8.7 0.2 21
+DS 21.373 -8.7 -21.373 -8.7 0.2 21
+DS -21.373 -8.7 -21.373 2.3 0.2 21
+DS -21.65 -8.95 21.65 -8.95 0.05 26
+DS 21.65 -8.95 21.65 2.55 0.05 26
+DS 21.65 2.55 -21.65 2.55 0.05 26
+DS -21.65 2.55 -21.65 -8.95 0.05 26
+$PAD
+Sh "P1" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1.907 0
+$EndPAD
+$PAD
+Sh "P2" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -0.637 0
+$EndPAD
+$PAD
+Sh "P3" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 0.633 0
+$EndPAD
+$PAD
+Sh "P4" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1.903 0
+$EndPAD
+$PAD
+Sh "P5" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.173 0
+$EndPAD
+$PAD
+Sh "P6" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.443 0
+$EndPAD
+$PAD
+Sh "P7" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 5.713 0
+$EndPAD
+$PAD
+Sh "P8" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 6.983 0
+$EndPAD
+$PAD
+Sh "P9" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 8.253 0
+$EndPAD
+$PAD
+Sh "P10" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 9.523 0
+$EndPAD
+$PAD
+Sh "P11" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.793 0
+$EndPAD
+$PAD
+Sh "P12" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.063 0
+$EndPAD
+$PAD
+Sh "P13" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 13.333 0
+$EndPAD
+$PAD
+Sh "P14" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.603 0
+$EndPAD
+$PAD
+Sh "P15" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 15.873 0
+$EndPAD
+$PAD
+Sh "S1" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -15.877 0
+$EndPAD
+$PAD
+Sh "S2" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -14.607 0
+$EndPAD
+$PAD
+Sh "S3" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -13.337 0
+$EndPAD
+$PAD
+Sh "S4" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.067 0
+$EndPAD
+$PAD
+Sh "S5" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.797 0
+$EndPAD
+$PAD
+Sh "S6" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -9.527 0
+$EndPAD
+$PAD
+Sh "S7" C 1.08 1.08 0 0 0
+Dr 0.7 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -8.257 0
+$EndPAD
+$PAD
+Sh "Hole" C 2.2 2.2 0 0 0
+Dr 2.2 0 0
+At HOLE N 00E0FFFF
+Po -20.1 0
+$EndPAD
+$PAD
+Sh "Hole" C 2.2 2.2 0 0 0
+Dr 2.2 0 0
+At HOLE N 00E0FFFF
+Po 20.1 0
+$EndPAD
+$EndMODULE 3M_5622-4100-ML
