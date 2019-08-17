@@ -8,4 +8,5 @@
   (lib (name CRCW060312R0FKEA)(type Legacy)(uri /Users/gavinatkinson/Dropbox/pcb/m2-pcie4x/lib/CRCW060312R0FKEA/CRCW060312R0FKEA.lib)(options "")(descr ""))
   (lib (name 598-8010-107F)(type Legacy)(uri /Users/gavinatkinson/Dropbox/pcb/m2-pcie4x/lib/598-8010-107F/598-8010-107F.lib)(options "")(descr ""))
   (lib (name m2-pcie4x-rescue)(type Legacy)(uri ${KIPRJMOD}/m2-pcie4x-rescue.lib)(options "")(descr ""))
+  (lib (name pci-side-rescue)(type Legacy)(uri ${KIPRJMOD}/pci-side-rescue.lib)(options "")(descr ""))
 )
